@@ -4,3 +4,6 @@ C:\Users\Oriya\Desktop\SoftUni\Fundamentals\Advanced C#\Lecture 2\Methods\P01.Bi
 C:\Users\Oriya\Desktop\SoftUni\Fundamentals\Advanced C#\Lecture 2\Methods\P01.BiggerNumbers\bin\Debug\P01.BiggerNumbers.pdb
 C:\Users\Oriya\Desktop\SoftUni\Fundamentals\Advanced C#\Lecture 2\Methods\P01.BiggerNumbers\obj\Debug\P01.BiggerNumbers.exe
 C:\Users\Oriya\Desktop\SoftUni\Fundamentals\Advanced C#\Lecture 2\Methods\P01.BiggerNumbers\obj\Debug\P01.BiggerNumbers.pdb
+C:\Users\Oriya\Desktop\SoftUni\Fundamentals\Advanced C#\Lecture 2\Methods\P01.BiggerNumbers\trunk\bin\Debug\P01.BiggerNumbers.exe.config
+C:\Users\Oriya\Desktop\SoftUni\Fundamentals\Advanced C#\Lecture 2\Methods\P01.BiggerNumbers\trunk\obj\Debug\P01.BiggerNumbers.exe
+C:\Users\Oriya\Desktop\SoftUni\Fundamentals\Advanced C#\Lecture 2\Methods\P01.BiggerNumbers\trunk\obj\Debug\P01.BiggerNumbers.pdb

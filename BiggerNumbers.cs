@@ -4,11 +4,11 @@ using System.Linq;
 
 class BiggerNumbers
 {
-    static int GetMax(int firstNumber, int secondNumber) 
+    static int GetMax(int firstNumberr, int secondNumber) 
     {
-        if (firstNumber >= secondNumber)
+        if (firstNumberr >= secondNumber)
         {
-           return firstNumber;
+           return firstNumberr;
         }
         else
         {
